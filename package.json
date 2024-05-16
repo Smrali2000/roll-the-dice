@@ -1,0 +1,14 @@
+{
+  "name": "roll-the-dice",
+  "version": "1.0.0",
+  "description": "Roll the dice game using HTML, CSS, Bootstrap and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Smriti Singh",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-icons": "^1.11.3"
+  }
+}

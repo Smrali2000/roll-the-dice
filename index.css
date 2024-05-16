@@ -1,0 +1,57 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url("./images/dice-2031512_1280.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+
+.banner {
+  width: 70%;
+  margin: 10% auto;
+  border: 1px solid rgb(53, 56, 57);
+  background-color: rgb(53, 56, 57, 0.6);
+  border-radius: 10px;
+  color: #eee;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.player-form {
+  min-height: 250px;
+}
+
+.player-form input {
+  background-color: transparent;
+  color: #eee;
+}
+.form-control::placeholder {
+  color: white;
+}
+
+#dice-page {
+  background-image: url("./images/3601000_67002.jpg") !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position: center; */
+}
+
+.dice-heading {
+  font-size: 60px;
+}
+
+.dice {
+  max-width: 250px;
+  max-height: 250px;
+}
